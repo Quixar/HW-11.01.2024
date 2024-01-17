@@ -1,0 +1,16 @@
+﻿  Group Student.cpp
+  Student.cpp
+C:\Users\Quixar\source\repos\Group Student\Student.cpp(12,23): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Quixar\source\repos\Group Student\Student.cpp(18,23): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Quixar\source\repos\Group Student\Student.cpp(24,23): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Quixar\source\repos\Group Student\Student.cpp(60,23): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Quixar\source\repos\Group Student\Student.cpp(71,23): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Quixar\source\repos\Group Student\Student.cpp(84,23): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Quixar\source\repos\Group Student\Student.cpp(94,23): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Quixar\source\repos\Group Student\Student.cpp(107,23): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Quixar\source\repos\Group Student\Student.cpp(117,23): warning C4018: '<': signed/unsigned mismatch
+  Generating Code...
+C:\Users\Quixar\source\repos\Group Student\Student.cpp(80): warning C4715: 'Student::GePracticRatesCount': not all control paths return a value
+C:\Users\Quixar\source\repos\Group Student\Student.cpp(103): warning C4715: 'Student::GetHomeWorkRatesCount': not all control paths return a value
+C:\Users\Quixar\source\repos\Group Student\Student.cpp(126): warning C4715: 'Student::GetExamRatesCount': not all control paths return a value
+  Group Student.vcxproj -> C:\Users\Quixar\source\repos\Group Student\x64\Debug\Group Student.exe
